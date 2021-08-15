@@ -1,2 +1,2 @@
 # Football-Player-Detection-and-Classification
-Python code for detection football players and classify teams using Deep Learning
+Python code for detecting football players and classifying teams using Deep Learning
